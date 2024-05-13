@@ -8,7 +8,7 @@
       <h1 class="font-semibold">
         Swoley <span class="text-indigo-400">Moley</span>
       </h1>
-      <p>©2024 SWOLEY MOLEY, All right reserved <span class="transparent">(Irtiza)<\span></p>
+      <p>©2024 SWOLEY MOLEY, All right reserved <span class="transparent">(Irtiza)</span></p>
     </div>
     <div class="flex flex-col gap-4">
       <p class="font-bold poppins text-base sm:text-lg">Support.</p>
